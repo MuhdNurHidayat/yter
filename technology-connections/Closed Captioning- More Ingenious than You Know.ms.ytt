@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="50" av="100" /><wp id="1" ap="1" ah="50" av="0" /><wp id="2" ap="7" ah="50" av="97" /><wp id="3" ap="7" ah="50" av="97" /><wp id="4" ap="7" ah="50" av="97" /><wp id="5" ap="7" ah="50" av="97" /><wp id="6" ap="7" ah="50" av="96" /><wp id="7" ap="7" ah="50" av="96" /><wp id="8" ap="7" ah="50" av="96" /><wp id="9" ap="7" ah="50" av="96" /><wp id="10" ap="7" ah="50" av="95" /><wp id="11" ap="7" ah="50" av="95" /><wp id="12" ap="7" ah="50" av="95" /><wp id="13" ap="7" ah="50" av="95" /><wp id="14" ap="7" ah="50" av="94" /><wp id="15" ap="7" ah="50" av="94" /><wp id="16" ap="7" ah="50" av="94" /><wp id="17" ap="7" ah="50" av="94" /><wp id="18" ap="7" ah="50" av="94" /><wp id="19" ap="7" ah="50" av="93" /><wp id="20" ap="7" ah="50" av="93" /><wp id="21" ap="7" ah="50" av="93" /><wp id="22" ap="7" ah="50" av="93" /><wp id="23" ap="7" ah="50" av="92" /><wp id="24" ap="7" ah="50" av="92" /><wp id="25" ap="7" ah="50" av="92" /><wp id="26" ap="7" ah="50" av="92" /><wp id="27" ap="7" ah="50" av="91" /><wp id="28" ap="7" ah="50" av="91" /><wp id="29" ap="7" ah="50" av="91" /><wp id="30" ap="7" ah="50" av="91" /><wp id="31" ap="7" ah="50" av="90" /><wp id="32" ap="7" ah="50" av="90" /><wp id="33" ap="7" ah="50" av="90" /><wp id="34" ap="7" ah="50" av="90" /><wp id="35" ap="7" ah="50" av="89" /><wp id="36" ap="7" ah="50" av="89" /><wp id="37" ap="7" ah="50" av="89" /><wp id="38" ap="7" ah="50" av="89" /><wp id="39" ap="7" ah="50" av="88" /><wp id="40" ap="7" ah="50" av="88" /><wp id="41" ap="7" ah="50" av="88" /><wp id="42" ap="7" ah="50" av="88" /><wp id="43" ap="7" ah="50" av="87" /><wp id="44" ap="7" ah="50" av="87" /><wp id="45" ap="7" ah="50" av="87" /><wp id="46" ap="7" ah="50" av="87" /><wp id="47" ap="7" ah="50" av="86" /><wp id="48" ap="7" ah="50" av="86" /><wp id="49" ap="7" ah="50" av="86" /><wp id="50" ap="7" ah="50" av="86" /><wp id="51" ap="7" ah="50" av="85" /><wp id="52" ap="7" ah="50" av="85" /><wp id="53" ap="7" ah="50" av="85" /><wp id="54" ap="7" ah="50" av="85" /><wp id="55" ap="7" ah="50" av="84" /><wp id="56" ap="7" ah="50" av="84" /><wp id="57" ap="7" ah="50" av="84" /><wp id="58" ap="7" ah="50" av="84" /><wp id="59" ap="7" ah="50" av="84" /><wp id="60" ap="7" ah="50" av="83" /><wp id="61" ap="7" ah="50" av="83" /><wp id="62" ap="7" ah="50" av="83" /><wp id="63" ap="7" ah="50" av="83" /><wp id="64" ap="7" ah="50" av="82" /><wp id="65" ap="7" ah="50" av="82" /><wp id="66" ap="7" ah="50" av="82" /><wp id="67" ap="7" ah="50" av="82" /><wp id="68" ap="7" ah="50" av="81" /><wp id="69" ap="7" ah="50" av="81" /><wp id="70" ap="7" ah="50" av="81" /><wp id="71" ap="7" ah="50" av="81" /><wp id="72" ap="7" ah="50" av="81" /><wp id="73" ap="7" ah="50" av="80" /><wp id="74" ap="7" ah="50" av="80" /><wp id="75" ap="7" ah="50" av="80" /><wp id="76" ap="7" ah="50" av="80" /><wp id="77" ap="7" ah="50" av="80" /><wp id="78" ap="7" ah="50" av="79" /><wp id="79" ap="7" ah="50" av="79" /><wp id="80" ap="7" ah="50" av="79" /><wp id="81" ap="7" ah="50" av="79" /><wp id="82" ap="7" ah="50" av="79" /><wp id="83" ap="7" ah="50" av="78" /><wp id="84" ap="7" ah="50" av="78" /><wp id="85" ap="7" ah="50" av="78" /><wp id="86" ap="7" ah="50" av="78" /><wp id="87" ap="7" ah="50" av="77" /><wp id="88" ap="7" ah="50" av="77" /><wp id="89" ap="7" ah="50" av="77" /><wp id="90" ap="7" ah="50" av="77" /><wp id="91" ap="7" ah="50" av="77" /><wp id="92" ap="7" ah="50" av="76" /><wp id="93" ap="7" ah="50" av="76" /><wp id="94" ap="7" ah="50" av="76" /><wp id="95" ap="7" ah="50" av="76" /><wp id="96" ap="7" ah="50" av="76" /><wp id="97" ap="7" ah="50" av="75" /><wp id="98" ap="7" ah="50" av="75" /><wp id="99" ap="7" ah="50" av="75" /><wp id="100" ap="7" ah="50" av="75" /><wp id="101" ap="7" ah="50" av="75" /><wp id="102" ap="7" ah="50" av="74" /><wp id="103" ap="7" ah="50" av="74" /><wp id="104" ap="7" ah="50" av="74" /><wp id="105" ap="7" ah="50" av="74" /><wp id="106" ap="7" ah="50" av="74" /><wp id="107" ap="7" ah="50" av="73" /><wp id="108" ap="7" ah="50" av="73" /><wp id="109" ap="7" ah="50" av="73" /><wp id="110" ap="7" ah="50" av="73" /><wp id="111" ap="7" ah="50" av="72" /><wp id="112" ap="7" ah="50" av="72" /><wp id="113" ap="7" ah="50" av="72" /><wp id="114" ap="7" ah="50" av="72" /><wp id="115" ap="7" ah="50" av="72" /><wp id="116" ap="7" ah="50" av="71" /><wp id="117" ap="7" ah="50" av="71" /><wp id="118" ap="7" ah="50" av="71" /><wp id="119" ap="7" ah="50" av="71" /><wp id="120" ap="7" ah="50" av="71" /><wp id="121" ap="7" ah="50" av="70" /><wp id="122" ap="7" ah="50" av="70" /><wp id="123" ap="7" ah="50" av="70" /><wp id="124" ap="7" ah="50" av="70" /><wp id="125" ap="7" ah="50" av="70" /><wp id="126" ap="7" ah="50" av="69" /><wp id="127" ap="7" ah="50" av="69" /><wp id="128" ap="7" ah="50" av="69" /><wp id="129" ap="7" ah="50" av="69" /><wp id="130" ap="7" ah="50" av="68" /><wp id="131" ap="7" ah="50" av="68" /><wp id="132" ap="7" ah="50" av="68" /><wp id="133" ap="7" ah="50" av="68" /><wp id="134" ap="7" ah="50" av="68" /><wp id="135" ap="7" ah="50" av="67" /><wp id="136" ap="7" ah="50" av="67" /><wp id="137" ap="7" ah="50" av="67" /><wp id="138" ap="7" ah="50" av="67" /><wp id="139" ap="7" ah="50" av="66" /><wp id="140" ap="7" ah="50" av="66" /><wp id="141" ap="7" ah="50" av="66" /><wp id="142" ap="7" ah="50" av="66" /><wp id="143" ap="7" ah="50" av="65" /><wp id="144" ap="7" ah="50" av="65" /><wp id="145" ap="7" ah="50" av="65" /><wp id="146" ap="7" ah="50" av="65" /><wp id="147" ap="7" ah="50" av="65" /><wp id="148" ap="7" ah="50" av="64" /><wp id="149" ap="7" ah="50" av="64" /><wp id="150" ap="7" ah="50" av="64" /><wp id="151" ap="7" ah="50" av="64" /><wp id="152" ap="7" ah="50" av="63" /><wp id="153" ap="7" ah="50" av="63" /><wp id="154" ap="7" ah="50" av="63" /><wp id="155" ap="7" ah="50" av="63" /><wp id="156" ap="7" ah="50" av="63" /><wp id="157" ap="7" ah="50" av="62" /><wp id="158" ap="7" ah="50" av="62" /><wp id="159" ap="7" ah="50" av="62" /><wp id="160" ap="7" ah="50" av="62" /><wp id="161" ap="7" ah="50" av="61" /><wp id="162" ap="7" ah="50" av="61" /><wp id="163" ap="7" ah="50" av="61" /><wp id="164" ap="7" ah="50" av="61" /><wp id="165" ap="7" ah="50" av="60" /><wp id="166" ap="7" ah="50" av="60" /><wp id="167" ap="7" ah="50" av="60" /><wp id="168" ap="7" ah="50" av="60" /><wp id="169" ap="7" ah="50" av="60" /><wp id="170" ap="7" ah="50" av="59" /><wp id="171" ap="7" ah="50" av="59" /><wp id="172" ap="7" ah="50" av="59" /><wp id="173" ap="7" ah="50" av="59" /><wp id="174" ap="7" ah="50" av="58" /><wp id="175" ap="7" ah="50" av="58" /><wp id="176" ap="7" ah="50" av="58" /><wp id="177" ap="7" ah="50" av="58" /><wp id="178" ap="7" ah="50" av="57" /><wp id="179" ap="7" ah="50" av="57" /><wp id="180" ap="7" ah="57" av="57" /><wp id="181" ap="7" ah="71" av="57" /><wp id="182" ap="7" ah="86" av="57" /><wp id="183" ap="7" ah="100" av="57" /><wp id="184" ap="7" ah="100" av="57" /><wp id="185" ap="7" ah="100" av="57" /><wp id="186" ap="7" ah="100" av="57" /><wp id="187" ap="7" ah="100" av="57" /><wp id="188" ap="7" ah="100" av="57" /><wp id="189" ap="7" ah="100" av="57" /><wp id="190" ap="7" ah="100" av="57" /><wp id="191" ap="7" ah="100" av="57" /><wp id="192" ap="7" ah="100" av="57" /><wp id="193" ap="7" ah="100" av="57" /><wp id="194" ap="7" ah="100" av="57" /><wp id="195" ap="7" ah="45" av="86" /><wp id="196" ap="7" ah="54" av="86" /><wp id="197" ap="7" ah="60" av="86" /><wp id="198" ap="7" ah="52" av="86" /><wp id="199" ap="7" ah="28" av="86" /><wp id="200" ap="7" ah="33" av="86" /><wp id="201" ap="7" ah="55" av="86" /><wp id="202" ap="7" ah="29" av="86" /><wp id="203" ap="7" ah="30" av="86" /><wp id="204" ap="7" ah="42" av="86" /><wp id="205" ap="7" ah="53" av="86" /><wp id="206" ap="7" ah="71" av="71" /><wp id="207" ap="7" ah="71" av="71" /><wp id="208" ap="7" ah="80" av="71" /><wp id="209" ap="7" ah="78" av="71" /><wp id="210" ap="7" ah="62" av="71" /><wp id="211" ap="6" ah="40" av="48" /><wp id="212" ap="6" ah="11" av="100" /><wp id="213" ap="6" ah="25" av="100" /><wp id="214" ap="7" ah="35" av="100" /><wp id="215" ap="7" ah="41" av="100" /><wp id="216" ap="7" ah="58" av="92" /><wp id="217" ap="6" ah="35" av="100" /><wp id="218" ap="6" ah="30" av="100" /><wp id="219" ap="7" ah="32" av="100" /><wp id="220" ap="6" ah="8" av="100" /><wp id="221" ap="7" ah="50" av="100" /><wp id="222" ap="7" ah="63" av="100" /><wp id="223" ap="7" ah="25" av="100" /><wp id="224" ap="7" ah="27" av="100" /><wp id="225" ap="1" ah="50" av="19" /><wp id="226" ap="1" ah="36" av="19" /><wp id="227" ap="1" ah="50" av="14" /><wp id="228" ap="1" ah="43" av="13" /><wp id="229" ap="0" ah="14" av="19" /><wp id="230" ap="7" ah="65" av="100" /><wp id="231" ap="7" ah="22" av="100" /><wp id="232" ap="1" ah="50" av="15" /><wp id="233" ap="6" ah="10" av="86" /><wp id="234" ap="0" ah="0" av="0" /><wp id="235" ap="6" ah="63" av="74" /><wp id="236" ap="8" ah="87" av="74" /><wp id="237" ap="6" ah="20" av="90" /><wp id="238" ap="6" ah="52" av="90" /><wp id="239" ap="6" ah="22" av="90" /><wp id="240" ap="6" ah="46" av="36" /><wp id="241" ap="6" ah="54" av="79" /><wp id="242" ap="6" ah="2" av="84" /><wp id="243" ap="1" ah="50" av="17" /><wp id="244" ap="7" ah="48" av="75" /><wp id="245" ap="0" ah="3" av="7" /><wp id="246" ap="0" ah="53" av="63" /><wp id="247" ap="0" ah="6" av="6" /><wp id="248" ap="0" ah="53" av="26" /><wp id="249" ap="0" ah="53" av="26" /><wp id="250" ap="0" ah="53" av="27" /><wp id="251" ap="0" ah="53" av="28" /><wp id="252" ap="0" ah="53" av="29" /><wp id="253" ap="0" ah="53" av="29" /><wp id="254" ap="0" ah="53" av="30" /><wp id="255" ap="0" ah="53" av="31" /><wp id="256" ap="0" ah="53" av="31" /><wp id="257" ap="0" ah="53" av="32" /><wp id="258" ap="0" ah="53" av="33" /><wp id="259" ap="0" ah="53" av="33" /><wp id="260" ap="0" ah="53" av="34" /><wp id="261" ap="0" ah="53" av="35" /><wp id="262" ap="0" ah="53" av="35" /><wp id="263" ap="0" ah="53" av="36" /><wp id="264" ap="0" ah="53" av="37" /><wp id="265" ap="0" ah="53" av="38" /><wp id="266" ap="0" ah="53" av="38" /><wp id="267" ap="0" ah="53" av="39" /><wp id="268" ap="0" ah="53" av="40" /><wp id="269" ap="0" ah="53" av="40" /><wp id="270" ap="0" ah="53" av="41" /><wp id="271" ap="0" ah="53" av="42" /><wp id="272" ap="0" ah="53" av="42" /><wp id="273" ap="0" ah="53" av="43" /><wp id="274" ap="0" ah="53" av="44" /><wp id="275" ap="0" ah="53" av="44" /><wp id="276" ap="0" ah="53" av="45" /><wp id="277" ap="0" ah="53" av="46" /><wp id="278" ap="0" ah="53" av="47" /><wp id="279" ap="0" ah="53" av="47" /><wp id="280" ap="0" ah="53" av="48" /><wp id="281" ap="0" ah="53" av="49" /><wp id="282" ap="0" ah="53" av="49" /><wp id="283" ap="0" ah="53" av="50" /><wp id="284" ap="0" ah="53" av="51" /><wp id="285" ap="0" ah="53" av="51" /><wp id="286" ap="0" ah="53" av="52" /><wp id="287" ap="0" ah="53" av="53" /><wp id="288" ap="0" ah="53" av="53" /><wp id="289" ap="0" ah="53" av="54" /><wp id="290" ap="0" ah="53" av="55" /><wp id="291" ap="0" ah="53" av="56" /><wp id="292" ap="0" ah="53" av="56" /><wp id="293" ap="0" ah="53" av="57" /><wp id="294" ap="0" ah="53" av="58" /><wp id="295" ap="0" ah="53" av="58" /><wp id="296" ap="0" ah="53" av="59" /><wp id="297" ap="0" ah="53" av="60" /><wp id="298" ap="0" ah="53" av="60" /><wp id="299" ap="0" ah="53" av="61" /><wp id="300" ap="0" ah="53" av="62" /><wp id="301" ap="0" ah="53" av="62" /><wp id="302" ap="0" ah="53" av="63" /><wp id="303" ap="0" ah="53" av="64" /><wp id="304" ap="0" ah="53" av="65" /><wp id="305" ap="0" ah="53" av="65" /><wp id="306" ap="0" ah="53" av="66" /><wp id="307" ap="0" ah="53" av="67" /><wp id="308" ap="0" ah="53" av="67" /><wp id="309" ap="0" ah="53" av="68" /><wp id="310" ap="1" ah="68" av="16" /><wp id="311" ap="6" ah="49" av="76" /><wp id="312" ap="7" ah="22" av="99" /><wp id="313" ap="7" ah="59" av="27" /><wp id="314" ap="7" ah="59" av="80" /><wp id="315" ap="7" ah="51" av="69" /><wp id="316" ap="8" ah="100" av="100" /><wp id="317" ap="1" ah="92" av="2" /><wp id="318" ap="8" ah="0" av="0" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="0" pd="0" sd="0" /><ws id="2" ju="1" pd="0" sd="0" /><pen id="0" fs="1" b="1" fc="#FFFF00" fo="255" bo="0" et="3" ec="#000000" /><pen id="1" b="1" fc="#FFFF00" fo="255" bo="0" et="3" ec="#000000" /><pen id="2" fs="1" b="1" fc="#FFFF00" fo="21" bo="0" et="3" ec="#000000" /><pen id="3" fs="1" b="1" fc="#FFFF00" fo="63" bo="0" et="3" ec="#000000" /><pen id="4" fs="1" b="1" fc="#FFFF00" fo="106" bo="0" et="3" ec="#000000" /><pen id="5" fs="1" b="1" fc="#FFFF00" fo="148" bo="0" et="3" ec="#000000" /><pen id="6" fs="1" b="1" fc="#FFFF00" fo="191" bo="0" et="3" ec="#000000" /><pen id="7" fs="1" b="1" fc="#FFFF00" fo="233" bo="0" et="3" ec="#000000" /><pen id="8" b="1" fc="#FF00FF" fo="255" bo="0" et="3" ec="#000000" /><pen id="9" fs="3" sz="0" b="1" fc="#FEFEFE" fo="255" bc="#000000" bo="254" /><pen id="10" fs="3" sz="0" b="1" i="1" fc="#FEFEFE" fo="255" bc="#000000" bo="254" /><pen id="11" fs="5" b="1" fc="#00FFFF" fo="255" bo="0" et="3" ec="#000000" /><pen id="12" b="1" fc="#00FFFF" fo="255" bo="0" et="3" ec="#000000" /><pen id="13" fs="5" sz="0" b="1" fc="#FEFEFE" fo="255" bo="0" et="3" ec="#000000" /><pen id="14" fs="5" sz="0" b="1" fc="#CBD57F" fo="255" bo="0" et="3" ec="#000000" /><pen id="15" sz="0" b="1" fc="#FEFEFE" fo="255" bo="0" et="3" ec="#000000" /><pen id="16" fs="5" sz="0" b="1" fc="#00FFFF" fo="255" bo="0" et="3" ec="#000000" /><pen id="17" fs="5" sz="0" b="1" i="1" fc="#FEFEFE" fo="255" bo="0" et="3" ec="#000000" /><pen id="18" fs="5" sz="0" b="1" fc="#FEFEFE" fo="255" bc="#000000" bo="254" /><pen id="19" fs="5" b="1" fc="#FEFEFE" fo="255" bc="#000000" bo="254" /><pen id="20" b="1" fc="#FEFEFE" fo="255" bo="0" et="3" ec="#000000" /><pen id="21" b="1" fc="#604BF8" fo="255" bo="0" et="3" ec="#000000" /><pen id="22" fs="3" b="1" fc="#FEFEFE" fo="255" bc="#000000" bo="254" /><pen id="23" fs="3" sz="0" b="1" fc="#FEFEFE" fo="255" bc="#7A6865" bo="254" /><pen id="24" sz="0" b="1" fc="#FF00FF" fo="255" bo="0" et="3" ec="#000000" /><pen id="25" i="1" fc="#000000" fo="1" bo="0" /></head><body><p t="2576" d="3504" p="0" wp="0" ws="0">[Bunyi isyarat DTMF dari
+permulaan pita VHS Disney]</p><p t="6080" d="4738" p="1" wp="0" ws="0">Apabila anda menempuh hidup sebagai
+pakar video kualiti tinggi, pastinya anda...</p><p t="10818" d="3704" p="1" wp="0" ws="0">...pernah nampak togol kecil
+untuk membuka dan menutup sarikata.</p><p t="14522" d="1768" p="1" wp="0" ws="0">Di YouTube ini, ianya di situ.</p><p t="16290" d="3070" p="1" wp="0" ws="0">Atau situ, bergantung kepada peranti anda.</p><p t="19360" d="4204" p="1" wp="0" ws="0">Dengan menekan butang itu, peranti anda mula
+paparkan metadata teks terbenam dalam...</p><p t="23564" d="5472" p="1" wp="0" ws="0">...strim video sama ada yang dijana oleh YouTube,
+atau ditulis oleh pencipta kandungan hebat seperti saya...</p><p t="29036" d="4104" p="1" wp="0" ws="0">...(atau penterjemah) supaya anda tak perlu
+tonton strim perkataan tak bertanda terus...</p><p t="33140" d="4471" p="1" wp="0" ws="0">...mengalir macam ayat terpanjang dunia yang
+tak pernah tamat dan selalu ada perkataan yang...</p><p t="37611" d="2903" p="1" wp="0" ws="0">...salah sebab sistem sarikata auto
+tak sempurna dan walaupun...</p><p t="40514" d="1836" p="1" wp="0" ws="0">...berguna sebagai alatan ia boleh guna…</p><p t="40381" d="67" p="2" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40448" d="66" p="3" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40514" d="67" p="4" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40581" d="67" p="5" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40648" d="67" p="6" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40715" d="100" p="7" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="40815" d="1535" p="0" wp="1" ws="0">[Ini berterusan untuk seketika…]</p><p t="42350" d="4571" p="1" wp="0" ws="0">Tapi tahukah anda kaset VHS yang lama
+juga selalunya mengandungi sarikata?</p><p t="46921" d="4871" p="1" wp="0" ws="0">Dan alat VCR yang lama
+sebesar ini boleh memaparkan ia?</p><p t="51792" d="4405" p="1" wp="0" ws="0">Kenyataan terakhir tadi mungkin kurang jujur,
+tapi anda akan lihat apa yang saya maksudkan.</p><p t="56197" d="4204" p="1" wp="0" ws="0">Banyak kaset VHS akan ada tanda
+kecil “CC”, atau kadangkala tanda ini.</p><p t="60401" d="3704" p="1" wp="0" ws="0">Ia memberitahu anda video tersebut
+dikodkan dengan sarikata tertutup.</p><p t="64105" d="1768" p="1" wp="0" ws="0">Tapi, macam mana?</p><p t="65873" d="2536" p="1" wp="0" ws="0">Mula-mula, mari kita lihat peristilahan.</p><p t="68409" d="4771" p="1" wp="0" ws="0">Ia dipanggil “sarikata tertutup” kerana
+selalunya sarikata ini tidak kelihatan.</p><p t="73180" d="4305" p="1" wp="0" ws="0">Walaupun peristilahan ini agak lapuk
+ketika ini, tetapi “sarikata” asalnya merujuk...</p><p t="77485" d="4304" p="1" wp="0" ws="0">...kepada tulisan sebenar dibakar ke
+dalam video untuk semua orang baca.</p><p t="81789" d="67" p="1" wp="2" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="81856" d="66" p="1" wp="3" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="81922" d="67" p="1" wp="4" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="81989" d="67" p="1" wp="5" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82056" d="67" p="1" wp="6" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82123" d="66" p="1" wp="7" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82189" d="67" p="1" wp="8" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82256" d="67" p="1" wp="9" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82323" d="67" p="1" wp="10" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82390" d="66" p="1" wp="11" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82456" d="67" p="1" wp="12" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82523" d="67" p="1" wp="13" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82590" d="66" p="1" wp="14" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82656" d="67" p="1" wp="15" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82723" d="67" p="1" wp="16" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82790" d="67" p="1" wp="17" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82857" d="66" p="1" wp="18" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82923" d="67" p="1" wp="19" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="82990" d="67" p="1" wp="20" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83057" d="67" p="1" wp="21" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83124" d="66" p="1" wp="22" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83190" d="67" p="1" wp="23" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83257" d="67" p="1" wp="24" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83324" d="67" p="1" wp="25" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83391" d="66" p="1" wp="26" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83457" d="67" p="1" wp="27" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83524" d="67" p="1" wp="28" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83591" d="66" p="1" wp="29" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83657" d="67" p="1" wp="30" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83724" d="67" p="1" wp="31" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83791" d="67" p="1" wp="32" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83858" d="66" p="1" wp="33" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83924" d="67" p="1" wp="34" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="83991" d="67" p="1" wp="35" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84058" d="67" p="1" wp="36" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84125" d="66" p="1" wp="37" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84191" d="67" p="1" wp="38" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84258" d="67" p="1" wp="39" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84325" d="67" p="1" wp="40" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84392" d="66" p="1" wp="41" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84458" d="67" p="1" wp="42" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84525" d="67" p="1" wp="43" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84592" d="66" p="1" wp="44" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84658" d="67" p="1" wp="45" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84725" d="67" p="1" wp="46" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84792" d="67" p="1" wp="47" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84859" d="66" p="1" wp="48" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84925" d="67" p="1" wp="49" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="84992" d="67" p="1" wp="50" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85059" d="67" p="1" wp="51" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85126" d="66" p="1" wp="52" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85192" d="67" p="1" wp="53" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85259" d="67" p="1" wp="54" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85326" d="67" p="1" wp="55" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85393" d="66" p="1" wp="56" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85459" d="67" p="1" wp="57" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85526" d="67" p="1" wp="58" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85593" d="66" p="1" wp="59" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85659" d="67" p="1" wp="60" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85726" d="67" p="1" wp="61" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85793" d="67" p="1" wp="62" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85860" d="66" p="1" wp="63" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85926" d="67" p="1" wp="64" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="85993" d="67" p="1" wp="65" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="86060" d="67" p="1" wp="66" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="86127" d="66" p="1" wp="67" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="86193" d="67" p="1" wp="68" ws="0">Kadangkala ia dipanggil
+“sarikata terbuka”, tetapi itu istilah retronim.</p><p t="86260" d="67" p="1" wp="69" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86327" d="67" p="1" wp="70" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86394" d="66" p="1" wp="71" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86460" d="67" p="1" wp="72" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86527" d="67" p="1" wp="73" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86594" d="66" p="1" wp="74" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86660" d="67" p="1" wp="75" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86727" d="67" p="1" wp="76" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86794" d="67" p="1" wp="77" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86861" d="66" p="1" wp="78" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86927" d="67" p="1" wp="79" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="86994" d="67" p="1" wp="80" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87061" d="67" p="1" wp="81" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87128" d="66" p="1" wp="82" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87194" d="67" p="1" wp="83" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87261" d="67" p="1" wp="84" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87328" d="67" p="1" wp="85" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87395" d="66" p="1" wp="86" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87461" d="67" p="1" wp="87" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87528" d="67" p="1" wp="88" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87595" d="66" p="1" wp="89" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87661" d="67" p="1" wp="90" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87728" d="67" p="1" wp="91" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87795" d="67" p="1" wp="92" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87862" d="66" p="1" wp="93" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87928" d="67" p="1" wp="94" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="87995" d="67" p="1" wp="95" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88062" d="67" p="1" wp="96" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88129" d="66" p="1" wp="97" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88195" d="67" p="1" wp="98" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88262" d="67" p="1" wp="99" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88329" d="67" p="1" wp="100" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88396" d="66" p="1" wp="101" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88462" d="67" p="1" wp="102" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88529" d="67" p="1" wp="103" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88596" d="66" p="1" wp="104" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88662" d="67" p="1" wp="105" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88729" d="67" p="1" wp="106" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88796" d="67" p="1" wp="107" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88863" d="66" p="1" wp="108" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88929" d="67" p="1" wp="109" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="88996" d="67" p="1" wp="110" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89063" d="67" p="1" wp="111" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89130" d="66" p="1" wp="112" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89196" d="67" p="1" wp="113" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89263" d="67" p="1" wp="114" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89330" d="67" p="1" wp="115" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89397" d="66" p="1" wp="116" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89463" d="67" p="1" wp="117" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89530" d="67" p="1" wp="118" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89597" d="66" p="1" wp="119" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89663" d="67" p="1" wp="120" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89730" d="67" p="1" wp="121" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89797" d="67" p="1" wp="122" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89864" d="66" p="1" wp="123" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89930" d="67" p="1" wp="124" ws="0">Masalahnya dengan sarikata jenis ini ialah,
+kepada mereka yang tak nak bacanya...</p><p t="89997" d="67" p="1" wp="125" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90064" d="67" p="1" wp="126" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90131" d="66" p="1" wp="127" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90197" d="67" p="1" wp="128" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90264" d="67" p="1" wp="129" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90331" d="67" p="1" wp="130" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90398" d="66" p="1" wp="131" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90464" d="67" p="1" wp="132" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90531" d="67" p="1" wp="133" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90598" d="66" p="1" wp="134" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90664" d="67" p="1" wp="135" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90731" d="67" p="1" wp="136" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90798" d="67" p="1" wp="137" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90865" d="66" p="1" wp="138" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90931" d="67" p="1" wp="139" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="90998" d="67" p="1" wp="140" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91065" d="67" p="1" wp="141" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91132" d="66" p="1" wp="142" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91198" d="67" p="1" wp="143" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91265" d="67" p="1" wp="144" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91332" d="67" p="1" wp="145" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91399" d="66" p="1" wp="146" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91465" d="67" p="1" wp="147" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91532" d="67" p="1" wp="148" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91599" d="66" p="1" wp="149" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91665" d="67" p="1" wp="150" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91732" d="67" p="1" wp="151" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91799" d="67" p="1" wp="152" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91866" d="66" p="1" wp="153" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91932" d="67" p="1" wp="154" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="91999" d="67" p="1" wp="155" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92066" d="67" p="1" wp="156" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92133" d="66" p="1" wp="157" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92199" d="67" p="1" wp="158" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92266" d="67" p="1" wp="159" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92333" d="67" p="1" wp="160" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92400" d="66" p="1" wp="161" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92466" d="67" p="1" wp="162" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92533" d="67" p="1" wp="163" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92600" d="66" p="1" wp="164" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92666" d="67" p="1" wp="165" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92733" d="67" p="1" wp="166" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92800" d="67" p="1" wp="167" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92867" d="66" p="1" wp="168" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="92933" d="67" p="1" wp="169" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93000" d="67" p="1" wp="170" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93067" d="67" p="1" wp="171" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93134" d="66" p="1" wp="172" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93200" d="67" p="1" wp="173" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93267" d="67" p="1" wp="174" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93334" d="67" p="1" wp="175" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93401" d="66" p="1" wp="176" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93467" d="67" p="1" wp="177" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93534" d="67" p="1" wp="178" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93601" d="66" p="1" wp="179" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="93667" d="968" p="1" wp="179" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94635" d="67" p="1" wp="180" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94702" d="67" p="1" wp="181" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94769" d="66" p="1" wp="182" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94835" d="67" p="1" wp="183" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94902" d="67" p="1" wp="184" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94969" d="67" p="1" wp="185" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95036" d="66" p="1" wp="186" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95102" d="67" p="1" wp="187" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95169" d="67" p="1" wp="188" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95236" d="66" p="1" wp="189" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95302" d="67" p="1" wp="190" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95369" d="67" p="1" wp="191" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95436" d="67" p="1" wp="192" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95503" d="66" p="1" wp="193" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="95569" d="99" p="1" wp="194" ws="0">...ia menjadi sangat menjengkelkan
+dan ganggu penonton melihat skrin.</p><p t="94535" d="1433" p="0" wp="0" ws="0">[Bunyi kaca pecah]</p><p t="96203" d="5239" p="1" wp="0" ws="0">Jadi, sarikata tertutup menyembunyikan sarikata
+sehingga dan melainkan ia diminta oleh penonton.</p><p t="101442" d="4571" p="1" wp="0" ws="0">Percayakah anda, rancangan televisyen
+pertama di AS yang mempunyai sarikata ialah...</p><p t="106013" d="4071" p="1" wp="0" ws="0">...“The French Chef”, disiarkan
+di PBS pada tahun 1971.</p><p t="110084" d="4471" p="1" wp="0" ws="0">Yang itu ialah sarikata terbuka, tetapi apapun
+itulah kali pertama rancangan televisyen AS...</p><p t="114555" d="2669" p="1" wp="0" ws="0">...boleh difahami golongan pekak.</p><p t="117224" d="4338" p="1" wp="0" ws="0">Ini sangat mengejutkan, kerana anda rasa
+salah satu kelebihan televisyen berbanding...</p><p t="121562" d="4838" p="1" wp="0" ws="0">...radio ialah mereka yang tak dapat mendengar boleh
+mendapat manfaat daripadanya, tetapi ia ambil masa...</p><p t="126400" d="5406" p="1" wp="0" ws="0">...sehingga 1971 barulah ada orang yang mengambil
+kemudahan komponen visual untuk tujuan ini.</p><p t="131806" d="2002" p="1" wp="0" ws="0">Aduh, kita langsung tak bersyukur.</p><p t="133808" d="4471" p="1" wp="0" ws="0">Apapun, menurut Institut Penyarikataan
+Kebangsaan AS, idea yang mana kemudiannya akan...</p><p t="138279" d="5939" p="1" wp="0" ws="0">...menjadi sarikata tertutup di AS bermula dengan ujikaji oleh
+Biro Piawaian Kebangsaan AS dan stesen ABC Television.</p><p t="144218" d="6173" p="1" wp="0" ws="0">Asalnya mereka cuba untuk menyiarkan jam menggunakan
+bahagian isyarat televisyen yang tidak kelihatan.</p><p t="150391" d="6573" p="1" wp="0" ws="0">Idea itu tidak menjadi kenyataan, tetapi ia mencetuskan
+idea untuk mengekod teks bagi tujuan sarikata tertutup.</p><p t="156964" d="4705" p="1" wp="0" ws="0">Awal 1970-an, banyak ujian dilakukan di
+pelbagai stesen serata AS, dan pada tahun...</p><p t="161669" d="6538" p="1" wp="0" ws="0">...1976, FCC menetapkan secara rasmi agar
+Baris 21 dirizabkan untuk sarikata tertutup.</p><p t="168909" d="3903" p="1" wp="0" ws="0">Eh, untuk menjelaskan apa maksudnya,
+kita perlu turun ke teknologi rendah.</p><p t="173581" d="1101" p="1" wp="0" ws="0">Wau.</p><p t="174682" d="3469" p="1" wp="0" ws="0">Tiba-tiba saya rasa macam... selang seli.</p><p t="180187" d="499" p="1" wp="0" ws="0">Bagus.</p><p t="180921" d="866" p="1" wp="0" ws="0">Ini lagi.</p><p t="182523" d="3570" p="1" wp="0" ws="0">Tak apa, setidaknya saya boleh kata,
+“Tengok, mak! Saya dalam TV!”</p><p t="186093" d="4471" p="1" wp="0" ws="0">Televisyen CRT lama macam ni
+sebenarnya peranti yang agak dungu.</p><p t="190564" d="6607" p="1" wp="0" ws="0">Tiada litar logik dalam ni, cuma ada pengayun
+frekuensi, gegelung pesongan, dan barang analog lain.</p><p t="197171" d="5405" p="1" wp="0" ws="0">Di sekeliling bahagian gambar yang anda nampak
+ialah seksyen kosong yang digunakan sebagai picu.</p><p t="202576" d="4071" p="1" wp="0" ws="0">Saya pernah buat siri televisyen analog yang
+anda boleh cari kalau nak tahu lebih lagi,...</p><p t="206647" d="4404" p="1" wp="0" ws="0">...tapi asasnya, gambar atas skrin diperbuat
+daripada satu baris bersambungan yang dipecahkan...</p><p t="211051" d="3571" p="1" wp="0" ws="0">...dan ditindan 525 kali per bingkai di AS.</p><p t="214622" d="7340" p="8" wp="1" ws="0">Nota: Malaysia pakai sistem PAL dengan tindanan 625 kali per bingkai.</p><p t="214622" d="3403" p="1" wp="0" ws="0">Negara dan benua lain pakai piawaian
+berbeza, tapi kita bercakap tentang...</p><p t="218025" d="3937" p="1" wp="0" ws="0">...Sistem Sarikata Bebas di AS ini jadi
+kita cakap tentang sistem NTSC yang lama.</p><p t="221962" d="4438" p="1" wp="0" ws="0">TV tahu bila nak pecahkan baris kerana
+sepanjang isyarat televisyen, denyut keamatan...</p><p t="226400" d="4905" p="1" wp="0" ws="0">...rendah dipanggil “selang pengosongan mendatar”
+membuatkannya set semula proses lukisan,...</p><p t="231305" d="3136" p="1" wp="0" ws="0">...menarik baris balik ke
+permulaan, dan bermula dari situ.</p><p t="234441" d="5506" p="1" wp="0" ws="0">Tapi TV juga perlu tahu bila nak mulakan
+tindanan 525 seterusnya, jadi picu lain,...</p><p t="239947" d="2469" p="1" wp="0" ws="0">...iaitu “selang pengosongan menegak” digunakan.</p><p t="242416" d="4238" p="1" wp="0" ws="0">Picu ini hanyalah sekumpulan baris
+yang tiada maklumat langsung.</p><p t="246654" d="6907" p="1" wp="0" ws="0">Untuk menyembunyikan picu-picu ini, tiub gambar
+dibesarkan supaya ia berada di luar sempadan skrin.</p><p t="253561" d="5939" p="1" wp="0" ws="0">Sarikata tertutup hanya menggunakan salah satu baris tak
+kelihatan dan tak digunakan untuk mengekod teks secara digital.</p><p t="259500" d="7574" p="1" wp="0" ws="0">Ia berjaya dibuat kerana TV tak perlu banyak baris kosong untuk
+set semula pesongan menegak, realitinya hanya perlu sikit saja.</p><p t="267074" d="3203" p="1" wp="0" ws="0">Jadi korbankan salah satu baris
+tak akan jejaskan keserasian.</p><p t="270277" d="4605" p="1" wp="0" ws="0">Demonstrasi pertama sistem ujikaji ini
+dijalankan pada tahun 1972, dan tahun berikutnya,...</p><p t="274882" d="7908" p="1" wp="0" ws="0">...stesen televisyen awam Washington DC, WETA mula
+buat siaran percubaan dengan data dihantar di baris 21.</p><p t="282790" d="9409" p="1" wp="0" ws="0">Pada tahun 1976, FCC memutuskan untuk memiawaikan ia, dan
+sejak itu Baris 21 dirizabkan khusus untuk maklumat sarikata tertutup.</p><p t="292199" d="5672" p="1" wp="0" ws="0">Pembangunan teknologi sarikata terus
+dibuat sepanjang 1970-an dan awal 1980-an.</p><p t="297871" d="5139" p="1" wp="0" ws="0">Kebanyakannya dibuat oleh jurutera di PBS, khususnya
+di stesen WGBH di Boston, dengan pembangunan...</p><p t="303010" d="6640" p="1" wp="0" ws="0">...penting dicipta iaitu konsol suntingan untuk
+memasukkan data sarikata tertutup ke bahan pra-rakam.</p><p t="309650" d="4571" p="1" wp="0" ws="0">Di akhir 1970-an, penyokong sarikata tertutup
+memutuskan untuk mencipta kumpulan...</p><p t="314221" d="6540" p="1" wp="0" ws="0">...tidak-untung, dengan azam untuk memiawaikan sistem dan
+menggalakkan penyiar besar untuk turut menggunakannya.</p><p t="320761" d="5973" p="1" wp="0" ws="0">Oleh itu, Institut Penyarikataan Kebangsaan AS ditubuhkan
+pada tahun 1979, dan pada tahun 1980, siri televisyen...</p><p t="326734" d="4571" p="1" wp="0" ws="0">...pertama bersarikata tutup penuh
+disiarkan, dan ini juga tahun di mana...</p><p t="331305" d="4137" p="1" wp="0" ws="0">...video rumah bersarikata tertutup
+pertama diterbitkan ke pasaran.</p><p t="335442" d="3470" p="1" wp="0" ws="0">Simbol ini ialah tanda khidmat
+Institut Penyarikataan Kebangsaan AS (NCI).</p><p t="338912" d="4505" p="1" wp="0" ws="0">Saya ingatkan ia hanyalah tanda umum
+untuk sarikata tertutup, tapi sebenarnya...</p><p t="343417" d="4605" p="1" wp="0" ws="0">...ia menandakan NCI yang mencipta
+sarikata untuk rancangan tersebut.</p><p t="348022" d="1568" p="1" wp="0" ws="0">Jadi baguslah juga.</p><p t="349590" d="6740" p="1" wp="0" ws="0">Tanda ini, direka oleh Jack Foley dari WGBH, diletakkan
+ke domain awam dan menjadi biasa digunakan juga.</p><p t="356330" d="4403" p="1" wp="0" ws="0">Sekarang kita tahu lebih sikit sejarahnya,
+mari lihat lebih dekat cara ia berfungsi.</p><p t="361635" d="1835" p="1" wp="0" ws="0">Tapi, biar saya keluar dari sini dulu.</p><p t="363470" d="1100" p="1" wp="0" ws="0">Tiada tempat sebaik 4K!</p><p t="364638" d="1067" p="1" wp="0" ws="0">Tiada tempat sebaik 4K!</p><p t="365806" d="1600" p="1" wp="0" ws="0">Tiada tempat sebaik 4K!</p><p t="369043" d="4337" p="1" wp="0" ws="0">Kalau saya kacau penyegerakan menegak
+televisyen ini, imej akan gulung dan...</p><p t="373380" d="2403" p="1" wp="0" ws="0">...selang pengosongan
+menegak akan kelihatan.</p><p t="375783" d="4671" p="1" wp="0" ws="0">Baris inilah sebenarnya baris 21,
+kadang-kadang anda akan nampak ia meletus...</p><p t="380454" d="2636" p="1" wp="0" ws="0">...menjadi titik bercampur
+hitam dan putih.</p><p t="383090" d="1868" p="1" wp="0" ws="0">Di sinilah sarikata tertutup berada.</p><p t="384958" d="3938" p="1" wp="0" ws="0">Kita nampak ia secara visual, kerana
+tiub gambar masih bereaksi dengannya...</p><p t="388896" d="2169" p="1" wp="0" ws="0">...seolah-olah ianya maklumat visual.</p><p t="391065" d="5272" p="1" wp="0" ws="0">Tapi jangan ingat ia dibaca seperti
+kod bar, walaupun ia nampak serupa,...</p><p t="396337" d="4371" p="1" wp="0" ws="0">...apa ia maksudkan ialah sebahagian kecil
+isyarat ini naik-turun-naik-turun.</p><p t="400708" d="2702" p="1" wp="0" ws="0">Dalam kata lain,
+ianya strim data digital.</p><p t="403410" d="3237" p="1" wp="0" ws="0">Tapi macam mana nak baca
+dan tukarkannya ke sarikata?</p><p t="406647" d="1001" p="1" wp="0" ws="0">Bagus tanya!</p><p t="407648" d="2135" p="1" wp="0" ws="0">Kita perlukan
+penyahkod sarikata tertutup!</p><p t="409783" d="3637" p="1" wp="0" ws="0">Nasib baik saya ada satu di sini.</p><p t="413420" d="5005" p="1" wp="0" ws="0">Inilah alat milik Institut Penyarikataan
+Kebangsaan AS sendiri dipanggil TeleCaption 3000.</p><p t="418425" d="3537" p="1" wp="0" ws="0">Bagus mereka pakai nombor
+3000 kerana ia masih berbunyi futuristik!</p><p t="421962" d="3303" p="1" wp="0" ws="0">Ini sebenarnya dibina oleh
+Sanyo, dan ia bukanlah murah.</p><p t="425265" d="3871" p="1" wp="0" ws="0">Harga sekitar $200 (RM838), harganya
+lebih mahal daripada televisyen asas.</p><p t="429136" d="3537" p="1" wp="0" ws="0">Ada artikel hebat daripada Chicago
+Tribune ditulis ketika unit ini...</p><p t="432673" d="3637" p="1" wp="0" ws="0">...diperkenalkan yang mempunyai maklumat
+menarik, dan anda boleh periksa di...</p><p t="436310" d="1902" p="1" wp="0" ws="0">...perihalan kalau nak tahu lebih lanjut.</p><p t="438212" d="5038" p="1" wp="0" ws="0">Walaupun ianya mahal, setidaknya ia mempunyai
+ciri-ciri yang bagus, yang kita akan lihat selepas ini.</p><p t="443250" d="4705" p="1" wp="0" ws="0">Peranti ini mampu membaca data dari
+baris 21, dan menjana teks atas skrin.</p><p t="447955" d="5637" p="1" wp="1" ws="0">Ingat, data itu kelihatan seperti kod bar, tapi
+ia memprosesnya sebagai strim data sebab…</p><p t="447988" d="334" p="9" wp="195" ws="0">AWAK PENARI YANG HEBAT.</p><p t="448322" d="2002" p="9" wp="196" ws="0">RASANYALAH.</p><p t="450324" d="3003" p="9" wp="197" ws="0">AKU GEMBIRA SANGAT, BESS.</p><p t="453327" d="1200" p="9" wp="195" ws="0">SEMUANYA BERLAKU DENGAN PANTAS.</p><p t="454795" d="4538" p="1" wp="0" ws="0">Okey, bila fikir balik… semua kod bar pun lebih
+kurang macam tu, setidaknya dengan jenis pengimbas...</p><p t="459333" d="2602" p="1" wp="0" ws="0">...laser dengan cermin
+berputar… tapi, apapun!</p><p t="461935" d="868" p="1" wp="0" ws="0">Ia baca data tersebut.</p><p t="462803" d="701" p="1" wp="0" ws="0">Okey.</p><p t="463337" d="333" p="9" wp="198" ws="0">AWAK CAKAP PASAL MALAM TADI KAH?</p><p t="463670" d="1502" p="9" wp="199" ws="0">BUKAN. BUKAN.</p><p t="465172" d="2002" p="9" wp="200" ws="0">MALAM TADI BAIK SAJA.</p><p t="467174" d="1501" p="9" wp="201" ws="0">BAIK?</p><p t="468675" d="2002" p="9" wp="202" ws="0">LEBIH DARI BAIK.</p><p t="470677" d="1502" p="9" wp="203" ws="0">MENGAGUMKAN.</p><p t="472179" d="2502" p="9" wp="204" ws="0">AKU CAKAP TENTANG BENDA BIASA SAJA.</p><p t="474681" d="433" p="9" wp="205" ws="0">OH YA. BIASANYA.</p><p t="463504" d="5405" p="1" wp="1" ws="0">Data itu mengekod maklumat teks dan masa,
+dan selepas memutuskan apa nak dibuat,...</p><p t="468909" d="5739" p="1" wp="1" ws="0">...peranti melukis bongkah teks di atas skrin,
+menyediakan latar hitam untuk memastikan ianya kelihatan.</p><p t="474648" d="5339" p="1" wp="0" ws="0">Sekarang, ini mungkin nampak agak mudah, tetapi
+peranti ini mempunyai kerja rumit untuk dibuat.</p><p t="479987" d="5772" p="1" wp="0" ws="0">Tengok, ia hanya boleh lihat satu saluran pada satu masa,
+jadi ia perlukan penala televisyen sendiri terbina dalam.</p><p t="485292" d="1602" p="9" wp="206" ws="0">KAU FIKIR BANYAK SANGAT.</p><p t="486894" d="2802" p="9" wp="207" ws="0">ITULAH WAKTUNYA LELAKI JADI TAKUT.</p><p t="489696" d="2503" p="9" wp="208" ws="0">YELAH, ATUK, BETUL JUGA.</p><p t="492199" d="3003" p="9" wp="209" ws="0">AKU MEMANG JADI TAKUT BANYAK KALI.</p><p t="495202" d="165" p="9" wp="210" ws="0">TIADA SIAPA SUKA RASA TAKUT.</p><p t="485759" d="5773" p="1" wp="0" ws="0">Kemudian, ia mesti mengeluarkan gambar yang sama ke TV,
+sambil mengubahnya untuk memaparkan sarikata.</p><p t="491532" d="4037" p="1" wp="0" ws="0">Dan ia perlu lakukannya pada waktu nyata
+dengan teknologi zaman 1970-an.</p><p t="495569" d="4304" p="1" wp="0" ws="0">Dah tentulah, peranti ini tidaklah setua itu,
+ia dibuat pada tahun 1989 dan ketika itu...</p><p t="499873" d="6273" p="1" wp="0" ws="0">...elektronik masih lagi belum maju, tetapi cara
+NCI mereka peranti ini sangat mengagumkan.</p><p t="506146" d="4972" p="1" wp="0" ws="0">Tengok di belakang dan anda akan jumpa input
+sepaksi dari aerial, dan satu lagi output ke TV.</p><p t="511118" d="4705" p="1" wp="0" ws="0">Ia ada pemilih saluran 3 atau 4 yang piawai,
+digunakan sekiranya tempat anda ada...</p><p t="515823" d="6940" p="1" wp="0" ws="0">...stesen bersiaran di salah satu saluran tersebut,
+tetapi apa yang cerdiknya ada soket elektrik di belakang.</p><p t="522763" d="3770" p="1" wp="0" ws="0">Memandangkan ia perlu sertakan penala
+televisyen dan keluarkan isyarat yang...</p><p t="526533" d="6006" p="1" wp="0" ws="0">...telah diubah seolah-olah ianya, VCR contohnya,
+mereka merekanya dengan fungsi tambahan.</p><p t="532539" d="6674" p="1" wp="0" ws="0">Jika anda memasukkan plag TV ke soket di belakang ini,
+anda boleh gunakan TeleCaption 3000 untuk mengawal TV!</p><p t="539213" d="6239" p="1" wp="0" ws="0">Lihat, TeleCaption mempunyai alat kawalan jauhnya sendiri,
+dan apabila anda menutupnya, ia mematikan elektrik ke soket tersebut.</p><p t="545452" d="7674" p="1" wp="0" ws="0">Jadi, jika anda biarkan suis di TV anda terpasang, anda
+cuma perlu membuka TeleCaption dan TV pun akan hidup.</p><p t="543350" d="2001" p="9" wp="211" ws="1">KALAULAH IANYA
+TIDAK BEGITU LAMA.</p><p t="566440" d="2234" p="9" wp="211" ws="1">KALAULAH IANYA
+TIDAK BEGITU LAMA.</p><p t="553126" d="4939" p="1" wp="0" ws="0">Tambahan pula, mereka tambah kawalan bunyi,
+jadi kalau anda biarkan TV anda terpasang, set ke saluran 3,...</p><p t="558065" d="5138" p="1" wp="0" ws="0">...dengan bunyi maksimum, anda boleh kawal
+semuanya seperti saluran, bunyi,...</p><p t="563203" d="4238" p="1" wp="0" ws="0">...elektrik TV, dan dah tentulah sarikata,
+semua dengan alat kawalan jauh ini.</p><p t="567441" d="5539" p="1" wp="0" ws="0">Saya sangat hargai pemikiran ahli NCI,
+kerana televisyen lama dengan...</p><p t="572980" d="4337" p="1" wp="0" ws="0">...tombol putaran kini boleh dikawal
+dengan alat kawalan jauh sepenuhnya.</p><p t="577317" d="2102" p="1" wp="0" ws="0">Terbaiklah, NCI!</p><p t="579419" d="5539" p="1" wp="0" ws="0">Satu benda pelik tentang peranti ini ialah
+kawalan pelarasan latar belakang dan juga aksara.</p><p t="584958" d="3237" p="1" wp="1" ws="0">Saya tak berapa pasti fungsinya, tetapi
+rupanya ia membolehkan anda...</p><p t="588195" d="3603" p="1" wp="1" ws="0">...mencerahkan latar belakang
+dan menggelapkan teks.</p><p t="586793" d="1102" p="9" wp="212" ws="1">INI SURAT KHABAR ESOK.</p><p t="587895" d="2869" p="9" wp="213" ws="1">BETUL. SAYA TELAH PERGI
+KE MASA DEPAN</p><p t="590764" d="701" p="9" wp="213" ws="1">SAYA DAPAT JEJAKI SEMULA DAN SEMUANYA
+MENUNJUKKAN KE ACARA INI.</p><p t="591465" d="1401" p="9" wp="214" ws="0">SEBAB ITU KITA DI SINI HARI INI--</p><p t="592866" d="2236" p="9" wp="215" ws="0">UNTUK MENGELAKKAN BENDA INI DARI TERJADI.</p><p t="595102" d="267" p="9" wp="216" ws="0">[BIP BIP]</p><p t="595369" d="934" p="9" wp="217" ws="1">UNTUK MENGHALANG MARTY JR.
+KAU AMBIL ALIH TEMPATNYA.</p><p t="596303" d="2135" p="9" wp="218" ws="1">DI CAFE 80s,
+LELAKI NAMA GRIFF,</p><p t="598438" d="1502" p="9" wp="219" ws="0">KATA SAJALAH TIDAK!</p><p t="599940" d="733" p="9" wp="220" ws="1">MACAM MANA DENGAN JENNIFER?
+KITA TAK BOLEH TINGGALKAN DIA DI SINI.</p><p t="591798" d="5740" p="1" wp="1" ws="0">Tak pastilah kenapa anda nak membuat seperti ini,
+tapi rasanya latar kelabu mungkin kurang gangguan.</p><p t="597538" d="5538" p="1" wp="1" ws="0">Dan mungkin set TV lama boleh terganggu dengan kotak
+hitam dan memaparkan geometri imej dengan salah.</p><p t="603076" d="2136" p="1" wp="0" ws="0">Tak kira apa sebabnya, pilihan diterima.</p><p t="605212" d="3370" p="1" wp="0" ws="0">Anda bukanlah terhad kepada membeli
+penyahkod ini sahaja, sebenarnya.</p><p t="608582" d="5272" p="1" wp="0" ws="0">Sesetengah VCR berkualiti tinggi juga mempunyai
+litar penyahkod sarikata tertutup terbina dalam,...</p><p t="613854" d="3437" p="1" wp="0" ws="0">...tetapi ia kurang dipromosi
+dan tidak laris.</p><p t="617291" d="4871" p="1" wp="0" ws="0">Walau apapun, mesin ini boleh digunakan dengan
+VCR biasa, dan memandangkan ia menambah fungsi...</p><p t="622162" d="5038" p="1" wp="0" ws="0">...sebagai penaiktarafan televisyen,
+saya rasa ianya antara pilihan terbaik.</p><p t="627200" d="2536" p="1" wp="0" ws="0">Jadi mari lihat lebih lanjut
+pada sarikata itu sendiri.</p><p t="629703" d="834" p="9" wp="221" ws="0">♪ PERUT, BERBUNYI ♪</p><p t="630537" d="1835" p="9" wp="221" ws="0">♪ MEMANJAT POKOK MADU ♪</p><p t="632372" d="1602" p="9" wp="221" ws="0">♪ KERIANGAN TAKKAN BERHENTI UNTUK KITA ♪</p><p t="633974" d="1868" p="9" wp="221" ws="0">♪ KITA SUNGGUH MENCABAR ♪</p><p t="635842" d="1635" p="9" wp="221" ws="0">♪ SETIDAKNYA SEKALI SEKALA SAHAJA ♪</p><p t="637477" d="367" p="9" wp="214" ws="0">ADAKAH ALAN DYSART DI SANA?</p><p t="637844" d="1669" p="9" wp="222" ws="0">APA KAITANNYA DENGAN DIA?</p><p t="639513" d="1368" p="9" wp="223" ws="0">CUMA NAK TAHU SAJA.</p><p t="640881" d="2669" p="9" wp="222" ws="0">DYSART ADA DI SETIAP PARTI.</p><p t="643550" d="1568" p="9" wp="224" ws="0">ADAKAH WILLY RAPAT DENGAN ALAN?</p><p t="645118" d="1135" p="9" wp="222" ws="0">RAPAT MACAM ORANG LAIN</p><p t="646253" d="334" p="9" wp="222" ws="0">PERNAH DEKATI ALAN DYSART.</p><p t="646587" d="767" p="9" wp="225" ws="0">TANYALAH MANA-MANA BUDAK PEREMPUAN
+YANG MEMBESAR DENGANKU.</p><p t="647354" d="2803" p="9" wp="226" ws="0">IA RASA BAGAIKAN
+NAK PERGI KE MARTINI.</p><p t="650157" d="2534" p="9" wp="227" ws="0">OH, YA, ADAKAH AKU AKAN ADA DI SINI.</p><p t="653527" d="1401" p="9" wp="228" ws="0">AH!</p><p t="654928" d="1400" p="9" wp="229" ws="1">TOLONG, JANGAN DEDAHKAN KAMI -- NANTI
+KAMI AKAN TERSEKAT DI ATAS PENTAS.</p><p t="629736" d="6307" p="1" wp="1" ws="0">Salah satu yang bagusnya protokol sarikata
+tertutup ialah ia tidak ditampal merata-rata di skrin.</p><p t="636043" d="2168" p="1" wp="1" ws="0">Kedudukannya boleh ditentukan.</p><p t="638211" d="4972" p="1" wp="1" ws="0">Maksudnya, teks boleh berubah ke kiri dan kanan
+untuk menunjukkan siapa yang sedang bercakap.</p><p t="643183" d="1468" p="1" wp="1" ws="0">Ianya agak memudahkan.</p><p t="644651" d="1936" p="1" wp="1" ws="0">Dan teksnya boleh
+diletakkan di atas...</p><p t="646587" d="3636" p="1" wp="0" ws="0">...supaya ia tidak mengganggu
+maklumat visual lain atas skrin.</p><p t="650223" d="3738" p="1" wp="0" ws="0">Ianya agak menarik yang pengkodan
+ini difikirkan untuk sistem sarikata...</p><p t="653961" d="5905" p="1" wp="0" ws="0">...berasaskan era 1970-an, dan ia juga menghampakan yang sarikata
+YouTube tak benarkan anda membuat seperti ini (sebenarnya boleh saja).</p><p t="659866" d="1335" p="1" wp="0" ws="0">Betul tu YouTube,...</p><p t="661201" d="5638" p="1" wp="0" ws="0">...VCR dan kotak lama ini lebih
+canggih daripada sistem sarikata anda.</p><p t="667474" d="1301" p="1" wp="0" ws="0">Mungkin baikinya.</p><p t="668875" d="2703" p="10" wp="0" ws="0">♪ TIADA SIAPA INGIN DIKALAHKAN ♪</p><p t="671578" d="1668" p="10" wp="0" ws="0">♪ TUNJUKKAN PADA MEREKA BETAPA FUNKINYA ♪</p><p t="673246" d="1602" p="9" wp="230" ws="0">BAIKLAH, PUNK!</p><p t="674848" d="701" p="9" wp="231" ws="0">HEI, TENGOK!</p><p t="675549" d="1368" wp="0" ws="0"><s p="9">( </s>&#x200B;<s p="10">deruan mekanikal</s><s p="9"> )</s></p><p t="676917" d="1702" wp="0" ws="0"><s p="9">( </s>&#x200B;<s p="10">dencingan sonar</s><s p="9"> )</s></p><p t="678619" d="1234" p="9" wp="0" ws="0">Tunggu sekejap, Squidward.</p><p t="679853" d="1168" p="9" wp="0" ws="0">Baiklah, Krabby Patty,</p><p t="681021" d="2502" p="9" wp="0" ws="0">tiba masanya untuk awak pergi.</p><p t="683523" d="3603" p="9" wp="0" ws="0">MUNGKIN TUNGGU MUSIM PANAS
+BARULAH DIA BUAT KEPUTUSAN.</p><p t="678752" d="4370" p="11" wp="232" ws="0">SpongeBob SquarePants contohnya, pakai campuran huruf kecil dan besar</p><p t="668775" d="5339" p="1" wp="1" ws="0">Sekarang, mungkin nampak ianya terhad kepada
+huruf besar, tetapi sebenarnya ia juga ada huruf kecil.</p><p t="674114" d="3570" p="1" wp="1" ws="0">Cuma ia selalunya digunakan untuk
+keterangan dan bukannya dialog.</p><p t="677684" d="5105" p="1" wp="1" ws="0">Tak tahu kenapa, dan ada pengecualian,
+tetapi kebiasaannya semua huruf besar.</p><p t="682789" d="4505" p="1" wp="1" ws="0">Dah tentulah kalau zaman sekarang,
+nampak macam semua orang menjerit.</p><p t="687294" d="3670" p="1" wp="0" ws="0">Salah satu aspek mengejutkan
+sistem ini ialah betapa kuatnya ia.</p><p t="690964" d="134" p="9" wp="0" ws="0">TAPI HOLMES YANG SANGAT EGO JUGA
+SEDAR, BAHAWA YANG SEBENARNYA</p><p t="691098" d="2202" p="9" wp="0" ws="0">DIA BUKANLAH MANUSIA LUAR BIASA.</p><p t="693300" d="4638" p="9" wp="0" ws="0">DARI SEMASA KE SEMASA, DIA PERLUKAN
+PEMBANTU DALAM PENYIASATANNYA</p><p t="697938" d="4371" p="9" wp="0" ws="0">DAN YANG BERADA LEBIH TINGGI
+DARIPADA KESEMUA CALON LAIN</p><p t="702309" d="2135" p="9" wp="0" ws="0">IALAH RAKAN LAMANYA, WATSON</p><p t="704444" d="4538" p="9" wp="0" ws="0">YANG MEMPUNYAI HATI KENTAL DAN KESETIAAN
+YANG TERAMAT YANG TIDAK MENGECEWAKAN HOLMES</p><p t="708982" d="99" p="9" wp="0" ws="0">WALAU DALAM APA JUA KEADAAN.</p><p t="690964" d="5139" p="1" wp="1" ws="0">Ini kaset VHS lama merakam siaran
+langsung TV, dengan penerimaan...</p><p t="696103" d="4538" p="1" wp="1" ws="0">...isyarat lemah, dan dirakam
+dengan kelajuan NSLP berkualiti rendah.</p><p t="700641" d="3803" p="1" wp="1" ws="0">Sarikatanya masih boleh diterima,
+dengan sedikit kesilapan kecil.</p><p t="704444" d="5005" p="1" wp="1" ws="0">Walaupun di kawasan jauh dari pemancar, sistem
+sarikata tertutup masih boleh berfungsi dengan baik.</p><p t="709449" d="5306" p="1" wp="0" ws="0">Sudah tentu, banyak tahun awalnya di mana
+rancangan TV disiarkan tidak mempunyai sarikata tertutup.</p><p t="714755" d="5805" p="1" wp="0" ws="0">NCI dan pertubuhan lain bertungkus-lumus
+meyakinkan para penyiar untuk menggunakannya.</p><p t="720560" d="2636" p="1" wp="0" ws="0">Lama-kelamaan,
+ia mula tersebar.</p><p t="723196" d="2169" p="1" wp="0" ws="0">Setiap format video
+rumah mula menyokongnya.</p><p t="725365" d="6440" p="1" wp="0" ws="0">Anda juga boleh jumpa CED dengan sarikata tertutup,
+seperti salinan Robin Hood ini dengan tanda khidmat NCI.</p><p t="731805" d="1401" p="1" wp="0" ws="0">“CED? Yang RCA punya?</p><p t="733206" d="2102" p="1" wp="0" ws="0">Format video atas cakera vinil yang gagal?</p><p t="735308" d="2370" p="1" wp="0" ws="0">Dia nak buat video tentangnya ke nanti?”</p><p t="737678" d="499" p="1" wp="0" ws="0">Ya.</p><p t="757864" d="67" p="9" wp="233" ws="1">SUD</p><p t="757931" d="67" p="9" wp="233" ws="1">SUDAH</p><p t="757998" d="200" p="9" wp="233" ws="1">SUDAH TEN</p><p t="758198" d="100" p="9" wp="233" ws="1">SUDAH TENTUL</p><p t="758298" d="434" p="9" wp="233" ws="1">SUDAH TENTULAH,</p><p t="758732" d="33" p="9" wp="233" ws="1">SUDAH TENTULAH, SA</p><p t="758765" d="34" p="9" wp="233" ws="1">SUDAH TENTULAH, SARI</p><p t="758799" d="33" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKA</p><p t="758832" d="33" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATA</p><p t="758865" d="34" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANY</p><p t="758899" d="33" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA</p><p t="758932" d="33" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TI</p><p t="758965" d="34" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDA</p><p t="758999" d="67" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK</p><p t="759066" d="66" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BE</p><p t="759132" d="67" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BEGI</p><p t="759199" d="1034" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BEGITU</p><p t="760233" d="134" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BEGITU TE</p><p t="760367" d="100" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BEGITU TEPA</p><p t="760467" d="1400" p="9" wp="233" ws="1">SUDAH TENTULAH, SARIKATANYA TIDAK BEGITU TEPAT,</p><p t="782422" d="833" p="12" wp="234" ws="1">Wau, peliknya apa yang kau sebut...</p><p t="738578" d="6240" p="1" wp="0" ws="0">Pembangunan besar lainnya konsol penyarikataan waktu nyata,
+yang membolehkan penyarikataan acara langsung dan tak berskrip.</p><p t="744818" d="6573" p="1" wp="0" ws="0">Jurutrengkas diupah untuk menulis selaju-lajunya sarikata
+berita langsung, acara sukan, dan rancangan tak berskrip lain.</p><p t="751391" d="4271" p="1" wp="0" ws="0">Sudah tentulah, sarikatanya tidak begitu tepat,
+dan salah satu kelemahannya ialah...</p><p t="755662" d="4304" p="1" wp="1" ws="0">...sarikata lambat naik, tapi hei,
+lebih baik dari tiada langsung.</p><p t="759966" d="2670" p="1" wp="1" ws="0">Tapi durian runtuh sebenar
+pada awal tahun 1991...</p><p t="762636" d="5605" p="1" wp="1" ws="0">  ...apabila Kongres akhirnya meluluskan
+Akta Penyahkod Litar Televisyen 1990.</p><p t="768241" d="7208" p="1" wp="0" ws="0">Ia mewajibkan semua televisyen dengan saiz skrin melebihi
+13 inci (33 sm) untuk sertakan paparan sarikata tertutup.</p><p t="775449" d="3270" p="1" wp="0" ws="0">Undang-undang ini berkuatkuasa
+pada 1 Julai 1993,...</p><p t="778719" d="6006" p="1" wp="0" ws="0">...dan sejak itu, ciri kemudahan
+penting menjadi… lebih mudah dicapai.</p><p t="789696" d="134" p="9" wp="235" ws="1">ADAKAH KAU AKAN MENJAWAB
+AKU TANYA SATU BENDA?</p><p t="789830" d="1034" p="9" wp="236" ws="2">DAH TENTULAH.</p><p t="790864" d="1168" p="9" wp="235" ws="1">PENYAKIT INI--</p><p t="792032" d="1934" p="9" wp="235" ws="1">KAU TAHU TAK
+APAKAH IA?</p><p t="784725" d="7072" p="1" wp="0" ws="0">TV ini dibuat pada tahun 1994, dan sudah tentulah, sarikata tertutup
+boleh dibuka dengan menekan beberapa butang di alat kawalan jauh.</p><p t="793467" d="5405" p="1" wp="0" ws="0">Apabila DVD mula dipasarkan pada tahun 1996,
+sarikata tertutup menjadi lebih menarik.</p><p t="798872" d="1335" p="1" wp="0" ws="0">Dan banyak sebabnya.</p><p t="803944" d="2534" p="13" wp="0" ws="0">Jadi, ia terpulang pada kau,
+dan ia terpulang pada aku.</p><p t="808482" d="1735" p="13" wp="0" ws="0">Kalau kau nak dia mati...</p><p t="810217" d="2034" p="13" wp="0" ws="0">maka silakan, terus
+melangkah ke depan.</p><p t="815722" d="4004" p="14" wp="0" ws="0">-Ya, cik?
+-Andrew, boleh tak tolong buka tingkap?</p><p t="819726" d="2034" p="14" wp="0" ws="0">Saya sedia berkhidmat
+menurut perintah cik.</p><p t="822963" d="2901" p="13" wp="0" ws="0">Ini kena tunggu sampai tamat
+pilihanraya. Aku tak boleh buat benda ni.</p><p t="826500" d="1266" p="13" wp="0" ws="0">Dari mana pemuda itu datang,
+Barbie...ra? Siapa bapanya?</p><p t="800207" d="3737" p="1" wp="0" ws="0">Pertama, pemain DVD
+menyokong sarikata secara natif.</p><p t="803944" d="4404" p="1" wp="1" ws="0">Sarikata dalam DVD berbeza dengan
+sarikata Baris 21, kerana ianya...</p><p t="808348" d="3470" p="1" wp="1" ws="0">...disimpan dalam DVD
+sebagai siri imej.</p><p t="811818" d="4672" p="1" wp="1" ws="0">Apabila anda membukanya, pemain DVD
+mengecap imej peta bit separuh lut sinar di atas...</p><p t="816490" d="6740" p="1" wp="1" ws="0">...video, dan sebab ini banyak bahasa boleh disokong
+tanpa memerlukan sokongan set aksara bahasa mereka.</p><p t="823230" d="4671" p="1" wp="1" ws="0">Ini juga menjelaskan kenapa sarikata
+nampak berbeza dari DVD ke DVD lain.</p><p t="827901" d="3837" p="1" wp="0" ws="0">Tapi, DVD masih menyokong
+sarikata tertutup baris 21.</p><p t="831738" d="4571" p="1" wp="0" ws="0">Ia agak menarik apabila anda sedar yang
+untuk memaparkannya, pemain DVD perlu...</p><p t="836309" d="4438" p="1" wp="0" ws="0">...mengekod sarikata ke baris 21 dengan
+sendiri daripada metadata dari cakera.</p><p t="844818" d="2869" p="9" wp="237" ws="1">AKU INGATKAN IANYA
+SESUATU AZAM YANG BAIK.</p><p t="847687" d="3003" p="9" wp="238" ws="1">AKU INGATKAN IANYA
+PENYAKIT MENTAL.</p><p t="850690" d="1268" p="9" wp="239" ws="1">AKU TAK SANGKA.
+IA SEMEMANGNYA MENGEJUTKAN!</p><p t="840747" d="4938" p="1" wp="0" ws="0">Fail video di cakera tidak mempunyai apa-apa
+selain bingkai gambar, jadi pemain DVD sendiri...</p><p t="845685" d="6273" p="1" wp="1" ws="0">...perlu menjana selang pengosongan menegak
+dan memasukkan data sarikata tersebut ke baris 21.</p><p t="851958" d="4438" p="1" wp="0" ws="0">Ini berlaku belakang tabir, membolehkan mereka
+yang bergantung kepada sarikata untuk menggunakan...</p><p t="856396" d="2369" p="1" wp="0" ws="0">...peralatan sedia ada
+jika mereka inginkannya.</p><p t="858765" d="4738" p="1" wp="0" ws="0">Ini juga berguna dalam senario seperti
+di hotel, di mana pemain DVD sentral mungkin...</p><p t="863503" d="3437" p="1" wp="0" ws="0">...menyiarkan rancangan sama
+kepada banyak televisyen.</p><p t="866940" d="3070" p="1" wp="0" ws="0">Kemudian, hanya mereka yang
+inginkan sarikata akan melihatnya.</p><p t="870010" d="3637" p="1" wp="0" ws="0">Dah tentu, sekarang saya perlu tahu
+jika Blu-Ray menyokong sarikata baris 21.</p><p t="873647" d="5172" p="1" wp="0" ws="0">Nampak macam tak, sebab melalui HDMI
+tiadanya selang pengosongan menegak,...</p><p t="878819" d="3203" p="1" wp="0" ws="0">...dan sebagai format
+HD, apa gunanya?</p><p t="882022" d="1001" p="1" wp="0" ws="0">TAPI!</p><p t="883023" d="4303" p="1" wp="0" ws="0">PlayStation 3 ada output rencam,
+jadi mari lihat kalau ada apa-apa terjadi.</p><p t="887561" d="4136" p="15" wp="240" ws="1">Video kandungan ini hanya boleh output melalui HDMI.
+Untuk memainkan kandungan ini, sila ke [Settings] &gt; [Display Settings] &gt;
+[Video Output Settings], dan kemudian pilih [HDMI].</p><p t="896303" d="3802" p="9" wp="241" ws="1">JADI, IA TERPULANG PADA KAU
+DAN IA TERPULANG PADA AKU.</p><p t="887761" d="632" p="1" wp="0" ws="0">Oh.</p><p t="891431" d="5172" p="1" wp="0" ws="0">Dan untuk percubaan lain, adakah PS3
+menghantar sarikata Baris 21 dengan DVD?</p><p t="896603" d="1101" p="1" wp="0" ws="0">Nampaknya ya!</p><p t="897704" d="2169" p="1" wp="0" ws="0">Tengoklah Sony
+mengekalkan keserasian.</p><p t="899873" d="1001" p="1" wp="0" ws="0">Kejap…</p><p t="900874" d="3303" p="1" wp="0" ws="0">Tahukah anda sistem sarikata
+tertutup wujud untuk panggung wayang?</p><p t="904177" d="5706" p="1" wp="0" ws="0">Saya hanya pernah nampak sistem ini sendiri di
+pertunjukan taman tema, tapi sistemnya agak cerdik.</p><p t="909883" d="3437" p="1" wp="0" ws="0">Di belakang panggung ada
+paparan matriks titik LED.</p><p t="913320" d="4004" p="1" wp="0" ws="0">Paparan ini menunjukkan
+sarikata filem... secara terbalik.</p><p t="919226" d="18483" p="16" wp="242" ws="1">Penghargaan: historicair, Wikimedia Commons</p><p t="917324" d="4237" p="1" wp="0" ws="0">Ideanya, kalau perlukan sarikata,
+pihak panggung akan sediakan sejenis cermin...</p><p t="921561" d="5039" p="1" wp="0" ws="0">...plexiglass segi empat berdiri, dan dengan meletakkannya
+di depan anda, ia boleh dihalakan untuk memantulkan...</p><p t="926600" d="5805" p="1" wp="0" ws="0">...imej dari paparan tersebut ke mata anda, sama ada
+di bawah skrin atau di atas mengikut pilihan anda.</p><p t="932405" d="5473" p="1" wp="0" ws="0">Dan memandangkan pantulan itu menterbalikkan
+imej, teks yang terbalik tadi nampak betul semula.</p><p t="937878" d="5939" p="1" wp="0" ws="0">Sistem jenis ini yang paling biasa digunakan ialah Sistem
+Penyarikataan Tetingkap Belakang, juga dicipta oleh WGBH Boston.</p><p t="943817" d="2102" p="1" wp="0" ws="0">Ish, baik sungguh mereka ni.</p><p t="945919" d="6273" p="1" wp="0" ws="0">Apapun, kalau anda tengok belakang dan nampak paparan
+dengan sarikata terbalik, sekarang anda tahu apa fungsinya.</p><p t="958265" d="2634" wp="221" ws="0"><s p="13">[Steven]​
+​</s>&#x200B;<s p="17">Jadi, pergilah makan atau ke perpustakaan.</s></p><p t="961668" d="1134" p="13" wp="221" ws="0">[Sandy] Ya, baiklah...</p><p t="962802" d="1234" wp="221" ws="0"><s p="13">[Steven] </s>&#x200B;<s p="17">Atau pergi melawat.</s></p><p t="964704" d="766" p="13" wp="221" ws="0">[Sandy] Mak dan ayah awak pernah ke situkah?
+Atau mak awak saja?</p><p t="959232" d="4937" p="11" wp="243" ws="0">Sarikata tak buka, tapi sarikata tetap dipaparkan</p><p t="967274" d="1099" p="11" wp="244" ws="0">Kentang</p><p t="952192" d="3470" p="1" wp="0" ws="0">Khidmat strim dalam talian pula
+menggunakan sarikata tertutup yang lain.</p><p t="955662" d="4738" p="1" wp="1" ws="0">Satu benda yang saya perasan dengan
+cara Netflix ialah sarikatanya boleh dipaksa.</p><p t="960400" d="3570" p="1" wp="1" ws="0">Saya yakin Blu-Ray boleh buat macam
+ni juga, dan mungkin DVD pun.</p><p t="963970" d="3402" p="1" wp="1" ws="0">Kelebihan utamanya ialah sebarang
+tulisan atas skrin, seperti...</p><p t="968808" d="4805" p="1" wp="0" ws="0">...boleh diterjemah ke bahasa lain secara
+automatik sekiranya runut audio berbeza dipilih.</p><p t="973613" d="1568" p="1" wp="0" ws="0">Itu agak berguna.</p><p t="975181" d="4038" p="1" wp="0" ws="0">Satu benda yang golongan kurang pendengaran
+boleh nantikan ialah penyarikataan masa nyata.</p><p t="979219" d="5872" p="1" wp="0" ws="0">Saya pasti ianya sedang dibangunkan, tapi cermin mata seperti
+Google Glass pasti diterima ramai jika fungsinya sebegini.</p><p t="985091" d="4171" p="1" wp="0" ws="0">Dengan teknologi pengecaman suara
+semaju zaman sekarang, rasanya tak lama...</p><p t="989262" d="3936" p="1" wp="0" ws="0">...untuk peranti seperti cermin mata ringkas
+membolehkan penyarikataan masa nyata.</p><p t="994100" d="4171" p="1" wp="0" ws="0">Oh kejap, dah tentulah ia wujud dan
+anda boleh tengok pautan di perihalan.</p><p t="998271" d="4738" p="1" wp="0" ws="0">Tapi sebelum saya pergi, perasan tak ada tiga
+mod pada penyahkod sarikata tertutup ini?</p><p t="1003009" d="2236" p="1" wp="0" ws="0">Ada mod “TV”,
+yang tak buat apa-apa.</p><p t="1005245" d="3003" p="1" wp="0" ws="0">Ada mod “CAPTION”
+yang paparkan sarikata.</p><p t="1008248" d="2002" p="1" wp="0" ws="0">Dan kemudian,
+ada mod “TEXT”.</p><p t="1010250" d="2469" p="1" wp="0" ws="0">Apa yang jadi
+kalau tukar mod itu?</p><p t="1012018" d="2401" p="11" wp="245" ws="1">Rakaman ini dibawakan kepada anda oleh
+Penglihatan-Di-Luar-Fokus!</p><p t="1012018" d="1033" p="18" wp="246" ws="1">AKU ADA BACA BEBERAPA
+KERTAS MILIKNYA. ITU SAJA.</p><p t="1012719" d="1101" p="1" wp="0" ws="0">Menarik.</p><p t="1013820" d="3070" p="1" wp="0" ws="0">Kotak hitam menutupi
+hampir keseluruhan skrin.</p><p t="1016890" d="1967" p="1" wp="0" ws="0">Apa fungsinya agaknya?</p><p t="1019225" d="1001" p="1" wp="0" ws="0">Betul tu, James.</p><p t="1020226" d="1535" p="1" wp="0" ws="0">Lama anda tunggu.</p><p t="1021761" d="1302" p="1" wp="0" ws="0">Ia mendatang.</p><p t="1023063" d="5038" p="1" wp="0" ws="0">Nanti, kita akan bercakap tentang “Teletext”,
+adik beradik sarikata tertutup yang lebih maju...</p><p t="1028101" d="3837" p="1" wp="0" ws="0">...yang dinikmati orang Eropah,
+tetapi tidak datang ke AS.</p><p t="1031938" d="2836" p="1" wp="0" ws="0">Jadi, ah, sila tunggunya.</p><p t="1034774" d="2102" p="1" wp="0" ws="0">Terima kasih tonton,
+dan harap anda terhibur!</p><p t="1036876" d="4738" p="1" wp="0" ws="0">Saya rasa sarikata tertutup kini
+dianggap sebagai benda remeh, tapi golongan...</p><p t="1041614" d="2670" p="1" wp="0" ws="0">...kurang pendengaran
+bersyukur yang ia wujud.</p><p t="1044284" d="4404" p="1" wp="0" ws="0">Walaupun ia memerlukan tindakan Kongres,
+saya seronok apabila kita akhirnya berikan...</p><p t="1048688" d="3270" p="1" wp="0" ws="0">...golongan kurang pendengaran
+capaian ke televisyen seperti orang lain.</p><p t="1051725" d="116648" p="19" wp="247" ws="1">Terima Kasih Istimewa
+kepada Patron Berikut:</p><p t="1096002" d="67" p="20" wp="248" ws="1">Ia menambah palang putih ini</p><p t="1096069" d="67" p="20" wp="249" ws="1">Ia menambah palang putih ini</p><p t="1096136" d="66" p="20" wp="250" ws="1">Ia menambah palang putih ini</p><p t="1096202" d="67" p="20" wp="251" ws="1">Ia menambah palang putih ini</p><p t="1096269" d="67" p="20" wp="252" ws="1">Ia menambah palang putih ini</p><p t="1096336" d="67" p="20" wp="253" ws="1">Ia menambah palang putih ini</p><p t="1096403" d="66" p="20" wp="254" ws="1">Ia menambah palang putih ini</p><p t="1096469" d="67" p="20" wp="255" ws="1">Ia menambah palang putih ini</p><p t="1096536" d="67" p="20" wp="256" ws="1">Ia menambah palang putih ini</p><p t="1096603" d="66" p="20" wp="257" ws="1">Ia menambah palang putih ini</p><p t="1096669" d="67" p="20" wp="258" ws="1">Ia menambah palang putih ini</p><p t="1096736" d="67" p="20" wp="259" ws="1">Ia menambah palang putih ini</p><p t="1096803" d="67" p="20" wp="260" ws="1">Ia menambah palang putih ini</p><p t="1096870" d="66" p="20" wp="261" ws="1">Ia menambah palang putih ini</p><p t="1096936" d="67" p="20" wp="262" ws="1">Ia menambah palang putih ini</p><p t="1097003" d="67" p="20" wp="263" ws="1">Ia menambah palang putih ini</p><p t="1097070" d="67" p="20" wp="264" ws="1">Ia menambah palang putih ini</p><p t="1097137" d="66" p="20" wp="265" ws="1">Ia menambah palang putih ini</p><p t="1097203" d="67" p="20" wp="266" ws="1">Ia menambah palang putih ini</p><p t="1097270" d="67" p="20" wp="267" ws="1">Ia menambah palang putih ini</p><p t="1097337" d="67" p="20" wp="268" ws="1">Ia menambah palang putih ini</p><p t="1097404" d="66" p="20" wp="269" ws="1">Ia menambah palang putih ini</p><p t="1097470" d="67" p="20" wp="270" ws="1">Ia menambah palang putih ini</p><p t="1097537" d="67" p="20" wp="271" ws="1">Ia menambah palang putih ini</p><p t="1097604" d="66" p="20" wp="272" ws="1">Ia menambah palang putih ini</p><p t="1097670" d="67" p="20" wp="273" ws="1">Ia menambah palang putih ini</p><p t="1097737" d="67" p="20" wp="274" ws="1">Ia menambah palang putih ini</p><p t="1097804" d="67" p="20" wp="275" ws="1">Ia menambah palang putih ini</p><p t="1097871" d="66" p="20" wp="276" ws="1">Ia menambah palang putih ini</p><p t="1097937" d="67" p="20" wp="277" ws="1">Ia menambah palang putih ini</p><p t="1098004" d="67" p="20" wp="278" ws="1">Ia menambah palang putih ini</p><p t="1098071" d="67" p="20" wp="279" ws="1">Ia menambah palang putih ini</p><p t="1098138" d="66" p="20" wp="280" ws="1">Ia menambah palang putih ini</p><p t="1098204" d="67" p="20" wp="281" ws="1">Ia menambah palang putih ini</p><p t="1098271" d="67" p="20" wp="282" ws="1">Ia menambah palang putih ini</p><p t="1098338" d="67" p="20" wp="283" ws="1">Ia menambah palang putih ini</p><p t="1098405" d="66" p="20" wp="284" ws="1">Ia menambah palang putih ini</p><p t="1098471" d="67" p="20" wp="285" ws="1">Ia menambah palang putih ini</p><p t="1098538" d="67" p="20" wp="286" ws="1">Ia menambah palang putih ini</p><p t="1098605" d="66" p="20" wp="287" ws="1">Ia menambah palang putih ini</p><p t="1098671" d="67" p="20" wp="288" ws="1">Ia menambah palang putih ini</p><p t="1098738" d="67" p="20" wp="289" ws="1">Ia menambah palang putih ini</p><p t="1098805" d="67" p="20" wp="290" ws="1">Ia menambah palang putih ini</p><p t="1098872" d="66" p="20" wp="291" ws="1">Ia menambah palang putih ini</p><p t="1098938" d="67" p="20" wp="292" ws="1">Ia menambah palang putih ini</p><p t="1099005" d="67" p="20" wp="293" ws="1">Ia menambah palang putih ini</p><p t="1099072" d="67" p="20" wp="294" ws="1">Ia menambah palang putih ini</p><p t="1099139" d="66" p="20" wp="295" ws="1">Ia menambah palang putih ini</p><p t="1099205" d="67" p="20" wp="296" ws="1">Ia menambah palang putih ini</p><p t="1099272" d="67" p="20" wp="297" ws="1">Ia menambah palang putih ini</p><p t="1099339" d="67" p="20" wp="298" ws="1">Ia menambah palang putih ini</p><p t="1099406" d="66" p="20" wp="299" ws="1">Ia menambah palang putih ini</p><p t="1099472" d="67" p="20" wp="300" ws="1">Ia menambah palang putih ini</p><p t="1099539" d="67" p="20" wp="301" ws="1">Ia menambah palang putih ini</p><p t="1099606" d="66" p="20" wp="302" ws="1">Ia menambah palang putih ini</p><p t="1099672" d="67" p="20" wp="303" ws="1">Ia menambah palang putih ini</p><p t="1099739" d="67" p="20" wp="304" ws="1">Ia menambah palang putih ini</p><p t="1099806" d="67" p="20" wp="305" ws="1">Ia menambah palang putih ini</p><p t="1099873" d="66" p="20" wp="306" ws="1">Ia menambah palang putih ini</p><p t="1099939" d="67" p="20" wp="307" ws="1">Ia menambah palang putih ini</p><p t="1100006" d="67" p="20" wp="308" ws="1">Ia menambah palang putih ini</p><p t="1100073" d="65" p="20" wp="309" ws="1">Ia menambah palang putih ini</p><p t="1098905" d="1435" p="21" wp="310" ws="0">Amaran cahaya menyilau</p><p t="1100340" d="2334" p="9" wp="311" ws="1">♪ WINNIE SI POOH KU YANG LAMA DAN DUNGU ♪♪</p><p t="1169008" d="13779" p="22" wp="312" ws="0">Senarai Main Televisyen</p><p t="1169008" d="13779" p="22" wp="313" ws="0">Langgan</p><p t="1169008" d="13779" p="22" wp="314" ws="0">Sokong</p><p t="1183756" d="3603" p="23" wp="315" ws="0">BERUANG KOALA MAKAN DAUN</p><p t="1051958" d="6540" p="1" wp="316" ws="2">Macam biasa, terima kasih kepada semua yang menyokong
+saluran ini di Patreon, terutamanya nama yang naik atas skrin.</p><p t="1058498" d="6773" p="1" wp="316" ws="2">Dengan sokongan anda, Technology Connections
+berubah dari hobi saya menjadi seperti sekarang!</p><p t="1065271" d="1936" p="1" wp="316" ws="2">Dan saya berterima
+kasih kepada anda.</p><p t="1067207" d="4171" p="1" wp="316" ws="2">Jika anda ingin menyokong saluran ini dan dapatkan
+beberapa saguhati seperti capaian video awal,...</p><p t="1071378" d="4704" p="1" wp="316" ws="2">...benda sebalik tabir, dan pelbagai kandungan khusus
+Patreon yang lain, sila periksa halaman Patreon saya.</p><p t="1076082" d="2568" p="1" wp="316" ws="2">Terima kasih atas pertimbangan
+anda, dan jumpa lagi kemudian!</p><p t="1078385" d="7005" p="24" wp="317" ws="0">Sarikata oleh:
+muhdnurhidayat
+(home.mnh48.moe)</p><p t="1079085" d="4003" p="1" wp="0" ws="0">♫ Jaz tenang tak terhingga ♫</p><p t="1084057" d="4104" p="1" wp="316" ws="2">Saya terjumpa sesuatu semasa
+merakam gulung-B untuk video ini.</p><p t="1088161" d="5572" p="1" wp="316" ws="2">Awalnya saya buat video untuk sesuatu yang dipanggil
+Macrovision, sejenis skema perlindungan salinan analog.</p><p t="1093733" d="4405" p="1" wp="316" ws="2">Ia benar-benar ganggu selang pengosongan
+menegak untuk kelirukan VCR,...</p><p t="1098138" d="3970" p="1" wp="316" ws="2">...dan ia mencipta masalah
+untuk proses rakaman waktu ini.</p><p t="1102108" d="7041" p="1" wp="316" ws="2">Untuk membuatkan data sarikata mudah dilihat, saya cuba
+mainkan Laserdisc yang diketahui tak ada Macrovision.</p><p t="1109149" d="2836" p="1" wp="316" ws="2">Dan sekarang, rasanya
+dah tahu kenapa.</p><p t="1111985" d="4471" p="1" wp="316" ws="2">Laserdisc ada banyak benda berbentuk kod
+bar dalam selang pengosongan, dan melihat...</p><p t="1116456" d="4204" p="1" wp="316" ws="2">...bagaimana semuanya berterabur, rasanya
+inilah yang pemain cakera cari apabila melangkau...</p><p t="1120660" d="2636" p="1" wp="316" ws="2">...runut atau hanya
+melihat pada kod waktu.</p><p t="1123296" d="6006" p="1" wp="316" ws="2">Dan, kalaulah betul, ia jelaskan kenapa
+Macrovision tidak wujud di Laserdisc.</p><p t="1129302" d="3537" p="1" wp="316" ws="2">Laserdisc sudah pun menggunakan selang
+pengosongan menegak dengan sendiri,...</p><p t="1132839" d="3870" p="1" wp="316" ws="2">...dalam kesnya untuk mencipta sistem kawalan
+untuk formatnya, dan kalau Macrovision...</p><p t="1136709" d="2502" p="1" wp="316" ws="2">...pun dimasukkan
+maka pasti ia rosak.</p><p t="1139679" d="3670" p="1" wp="316" ws="2">Dan sementara kita bercakap tentang
+sarikata tertutup, saya telah membuka...</p><p t="1143349" d="2403" p="1" wp="316" ws="2">...penghantaran sarikata
+komuniti untuk saluran ini.</p><p t="1145752" d="3670" p="1" wp="316" ws="2">Jika anda bercakap bahasa lain dan
+sanggup membantu menterjemah video saya ke...</p><p t="1149422" d="4571" p="1" wp="316" ws="2">...bahasa tersebut, sila periksa pautan di
+bawah dengan arahan cara untuk membuatnya.</p><p t="1153993" d="3704" p="1" wp="316" ws="2">Ini akan menjadi sangat berguna kepada saya
+untuk berikan pendedahan saluran ini di negara lain,...</p><p t="1157697" d="1902" p="1" wp="316" ws="2">...dan juga membuatkannya
+nampak menarik.</p><p t="1159599" d="2803" p="1" wp="316" ws="2">Jika anda membuatnya,
+saya janji anda akan dapat...</p><p t="1162402" d="3135" p="1" wp="316" ws="2">...Lambang Bayangan Rasmi
+Tak Rasmi Penuh Kehebatan.</p><p t="1166172" d="2335" p="1" wp="316" ws="2">Anda tahu ianya wujud
+selagi anda percayakannya.</p><p t="1" d="99" p="25" wp="318" ws="2">​</p></body></timedtext>
